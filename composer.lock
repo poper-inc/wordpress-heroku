@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4017680bef2759bd04d2d7b7142468cf",
+    "content-hash": "5bb47f929488de951549e558c8e75142",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -3670,24 +3670,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/all-in-one-seo-pack/"
-        },
-        {
-            "name": "wpackagist-plugin/all-in-one-wp-migration",
-            "version": "7.10",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/all-in-one-wp-migration/",
-                "reference": "tags/7.10"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/all-in-one-wp-migration.7.10.zip"
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/all-in-one-wp-migration/"
         },
         {
             "name": "wpackagist-plugin/debug-bar",

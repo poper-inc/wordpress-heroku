@@ -45,8 +45,7 @@
     "wpackagist-plugin/elementor": "2.7.5 ",
     "wpackagist-plugin/polylang": "2.6.7",
     "wpackagist-plugin/disable-comments": "1.10.2 ",
-    "wpackagist-plugin/duplicate-post": "3.2.3",
-    "wpackagist-plugin/all-in-one-wp-migration": "7.10"
+    "wpackagist-plugin/duplicate-post": "3.2.3"
   },
   "require-dev": {
 	"heroku/heroku-buildpack-php": "*",
@@ -72,8 +71,7 @@
         "elementor",
         "polylang",
         "disable-comments",
-        "duplicate-post",
-        "all-in-one-wp-migration"
+        "duplicate-post"
 	  ],
 	  "web/app/themes/{$name}/": [
 		"type:wordpress-theme"
